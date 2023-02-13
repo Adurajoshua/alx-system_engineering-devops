@@ -1,1 +1,1 @@
-We are symbols, and inhabit symbols
+Display the content of the /etc/passwd file.
